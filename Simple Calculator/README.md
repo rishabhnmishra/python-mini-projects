@@ -21,5 +21,4 @@ Multiplication (3): Product of multiple numbers.
 Division (4): Quotient of two numbers.
 Average (5): Average of multiple numbers.
 
-### Follow on YouTube for more:
-https://www.youtube.com/@RishabhMishraOfficial 
+### Follow on YouTube for more:  https://www.youtube.com/@RishabhMishraOfficial 
